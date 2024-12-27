@@ -265,7 +265,7 @@ http://fl5.moveonjoy.com/DISNEY_JR/index.m3u8
 http://fl2.moveonjoy.com/DISNEY_XD/index.m3u8
 
 #EXTINF:-1 tvg-id="Nickelodeon.USA.-.East.Feed.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/nickelodeon-us.png" group-title="Kids",Nickelodeon USA
-http://streamsy.online:2999/live/venomj/EmoOmOskzq/327.m3u8
+http://fl1.moveonjoy.com/NICKELODEON/index.m3u8
 
 #EXTINF:-1 tvg-id="Nick.Jr..-.East.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/nick-jr-us.png" group-title="Kids",Nick Jr. USA
 http://fl2.moveonjoy.com/NICK_JR/index.m3u8

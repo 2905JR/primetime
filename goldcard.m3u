@@ -1,28 +1,28 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-id="ABC.(KABC).Los.Angeles,.CA.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/us-local/abc-7-kabc-us.png" group-title="Network",ABC LA (KABC) USA
-http://streamsy.online:2999/live/venomj/EmoOmOskzq/715.m3u8
+http://cdn1host.online:2999/live/venomj/EmoOmOskzq/715.m3u8
 
 #EXTINF:-1 tvg-id="ABC.(WABC).New.York,.NY.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/us-local/abc-7-wabc-us.png" group-title="Network",ABC NYC (WABC) USA
-http://streamsy.online:2999/live/venomj/EmoOmOskzq/727.m3u8
+http://cdn1host.online:2999/live/venomj/EmoOmOskzq/727.m3u8
 
 #EXTINF:-1 tvg-id="KCAL.Los.Angeles.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/us-local/cbs-9-kcal-us.png" group-title="Network",CBS LA (KCAL) USA
-http://streamsy.online:2999/live/venomj/EmoOmOskzq/985.m3u8
+http://cdn1host.online:2999/live/venomj/EmoOmOskzq/985.m3u8
 
 #EXTINF:-1 tvg-id="CBS.(WCBS).New.York,.NY.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/us-local/cbs-2-wcbs-us.png" group-title="Network",CBS NYC (WCBS) USA
-http://streamsy.online:2999/live/venomj/EmoOmOskzq/719.m3u8
+http://cdn1host.online:2999/live/venomj/EmoOmOskzq/719.m3u8
 
 #EXTINF:-1 tvg-id="WPIX.New.York.(SUPERSTATION).ca" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/us-local/cw/cw-11-wpix-us.png" group-title="Network",CW NYC (WPIX) USA
-http://streamsy.online:2999/live/venomj/EmoOmOskzq/1086.m3u8
+http://cdn1host.online:2999/live/venomj/EmoOmOskzq/1086.m3u8
 
 #EXTINF:-1 tvg-id="FOX.(KTTV).Los.Angeles,.CA.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/us-local/fox-11-kttv-us.png" group-title="Network",FOX LA (KTTV) USA
-http://streamsy.online:2999/live/venomj/EmoOmOskzq/721.m3u8
+http://cdn1host.online:2999/live/venomj/EmoOmOskzq/721.m3u8
 
 #EXTINF:-1 tvg-id="FOX.(WNYW).New.York,.NY.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/us-local/fox-5-wnyw-us.png" group-title="Network",FOX NYC (WNYW) USA
-http://streamsy.online:2999/live/venomj/EmoOmOskzq/728.m3u8
+http://cdn1host.online:2999/live/venomj/EmoOmOskzq/728.m3u8
 
 #EXTINF:-1 tvg-id="NBC.(KNBC).Los.Angeles,.CA.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/us-local/nbc-4-knbc-us.png" group-title="Network",NBC LA (KNBC) USA
-http://streamsy.online:2999/live/venomj/EmoOmOskzq/986.m3u8
+http://cdn1host.online:2999/live/venomj/EmoOmOskzq/986.m3u8
 
 #EXTINF:-1 tvg-id="NBC.(WNBC).New.York,.NY.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/us-local/nbc-4-wnbc-us.png" group-title="Network",NBC NYC (WNBC) USA
 http://185.150.191.249/NYNewYorkNBCWNBC/index.m3u8
@@ -31,7 +31,7 @@ http://185.150.191.249/NYNewYorkNBCWNBC/index.m3u8
 https://tx1.nexgen.bz:443/PBS/index.m3u8
 
 #EXTINF:-1 tvg-id="A.and.E.US.-.Eastern.Feed.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/a-and-e-us.png" group-title="Entertainment",A&E USA
-http://streamsy.online:2999/live/venomj/EmoOmOskzq/212.m3u8
+http://cdn1host.online:2999/live/venomj/EmoOmOskzq/212.m3u8
 
 #EXTINF:-1 tvg-id="AMC.-.Eastern.Feed.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/amc-us.png" group-title="Entertainment",AMC USA
 http://fl5.moveonjoy.com/AMC_NETWORK/index.m3u8
@@ -42,6 +42,9 @@ http://fl2.moveonjoy.com/BBC_AMERICA/index.m3u8
 #EXTINF:-1 tvg-id="BET.-.Eastern.Feed.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/bet-us.png" group-title="Entertainment",BET USA
 http://fl2.moveonjoy.com/BET_EAST/index.m3u8
 
+#EXTINF:-1 tvg-id="BET.Her.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/bet-her-us.png" group-title="Entertainment",BET HER USA
+http://fl2.moveonjoy.com/BET_HER/index.m3u8
+
 #EXTINF:-1 tvg-id="Bravo.USA.-.Eastern.Feed.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/bravo-us.png" group-title="Entertainment",Bravo USA
 http://fl2.moveonjoy.com/BRAVO/index.m3u8
 
@@ -50,6 +53,15 @@ http://fl3.moveonjoy.com/CMT/index.m3u8
 
 #EXTINF:-1 tvg-id="Comedy.Central.(US).-.Eastern.Feed.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/comedy-central-us.png" group-title="Comedy",Comedy Central USA
 http://fl3.moveonjoy.com/Comedy_Central/index.m3u8
+
+#EXTINF:-1 tvg-id="Destination.America.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/destination-america-us.png" group-title="Lifestyle",Destination America USA
+http://fl3.moveonjoy.com/Destination_America/index.m3u8
+
+#EXTINF:-1 tvg-id="Discovery.Channel.(US).-.Eastern.Feed.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/discovery-channel-us.png" group-title="Documentaries",Discovery USA
+http://fl3.moveonjoy.com/Discovery_Channel/index.m3u8
+
+#EXTINF:-1 tvg-id="Discovery.Life.Channel.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/discovery-life-us.png" group-title="Lifestyle",Discovery Life USA
+http://fl2.moveonjoy.com/DISCOVERY_LIFE/index.m3u8
 
 #EXTINF:-1 tvg-id="E!.Entertainment.USA.-.Eastern.Feed.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/e-entertainment-us.png" group-title="Entertainment",E! USA
 http://fl2.moveonjoy.com/E_ENTERTAINMENT_TELEVISION/index.m3u8
@@ -79,7 +91,7 @@ http://fl2.moveonjoy.com/MTV_CLASSIC/index.m3u8
 http://fl2.moveonjoy.com/MTV_2/index.m3u8
 
 #EXTINF:-1 tvg-id="MTV.Classic.-.East.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/mtv-classic-us.png" group-title="Entertainment",MTV Classic USA
-http://streamsy.online:2999/live/venomj/EmoOmOskzq/1194.m3u8
+http://cdn1host.online:2999/live/venomj/EmoOmOskzq/1194.m3u8
 
 #EXTINF:-1 tvg-id="MTV.Live.HD.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/mtv-live-us.png" group-title="Entertainment",MTV Live USA
 http://fl2.moveonjoy.com/MTV_LIVE/index.m3u8
@@ -91,13 +103,13 @@ http://fl2.moveonjoy.com/PARAMOUNT_NETWORK/index.m3u8
 http://fl2.moveonjoy.com/OXYGEN/index.m3u8
 
 #EXTINF:-1 tvg-id="POP.-.East.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/pop-us.png" group-title="Entertainment",Pop USA
-http://streamsy.online:2999/live/venomj/EmoOmOskzq/226.m3u8
+http://cdn1host.online:2999/live/venomj/EmoOmOskzq/226.m3u8
 
 #EXTINF:-1 tvg-id="ReelzChannel.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/reelz-us.png" group-title="Entertainment",Reelz USA
 http://fl2.moveonjoy.com/REELZ/index.m3u8
 
 #EXTINF:-1 tvg-id="Sony.Movies.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/sony-movies-us.png" group-title="Entertainment",Sony Movies USA
-http://streamsy.online:2999/live/venomj/EmoOmOskzq/1217.m3u8
+http://cdn1host.online:2999/live/venomj/EmoOmOskzq/1217.m3u8
 
 #EXTINF:-1 tvg-id="SundanceTV.USA.-.East.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/sundance-tv-us.png" group-title="Entertainment",Sundance TV USA
 http://fl2.moveonjoy.com/SUNDANCE/index.m3u8
@@ -136,7 +148,7 @@ http://fl5.moveonjoy.com/HBO_COMEDY/index.m3u8
 http://fl5.moveonjoy.com/HBO_FAMILY/index.m3u8
 
 #EXTINF:-1 tvg-id="HBO.Signature.(HBO.3).-.Eastern.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/hbo-signature-us.png" group-title="Premium",HBO Signature USA
-http://streamsy.online:2999/live/venomj/EmoOmOskzq/156.m3u8
+http://cdn1host.online:2999/live/venomj/EmoOmOskzq/156.m3u8
 
 #EXTINF:-1 tvg-id="HBO.Zone.HD.-.East.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/hbo-zone-us.png" group-title="Premium",HBO Zone USA
 http://fl5.moveonjoy.com/HBO_ZONE/index.m3u8
@@ -154,10 +166,10 @@ http://fl2.moveonjoy.com/EPIX_2/index.m3u8
 http://fl2.moveonjoy.com/EPIX_HITS/index.m3u8
 
 #EXTINF:-1 tvg-id="5.Star.Max.-.Eastern.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/cinemax-5-starmax-us.png" group-title="Premium",5StarMAX USA
-http://streamsy.online:2999/live/venomj/EmoOmOskzq/1603.m3u8
+http://cdn1host.online:2999/live/venomj/EmoOmOskzq/1603.m3u8
 
 #EXTINF:-1 tvg-id="ActionMax.-.Eastern.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/cinemax-actionmax-us.png" group-title="Premium",ActionMAX USA
-http://streamsy.online:2999/live/venomj/EmoOmOskzq/1604.m3u8
+http://cdn1host.online:2999/live/venomj/EmoOmOskzq/1604.m3u8
 
 #EXTINF:-1 tvg-id="Cinemax.-.Eastern.HD.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/cinemax-us.png" group-title="Premium",CINEMAX USA
 http://fl2.moveonjoy.com/CINEMAX/index.m3u8
@@ -166,13 +178,13 @@ http://fl2.moveonjoy.com/CINEMAX/index.m3u8
 http://fl3.moveonjoy.com/CINEMAX_MOREMAX/index.m3u8
 
 #EXTINF:-1 tvg-id="MovieMax.(Max.6).-.East.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/cinemax-moviemax-us.png" group-title="Premium",MovieMAX USA
-http://streamsy.online:2999/live/venomj/EmoOmOskzq/1605.m3u8
+http://cdn1host.online:2999/live/venomj/EmoOmOskzq/1605.m3u8
 
 #EXTINF:-1 tvg-id="OuterMax.east.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/cinemax-outermax-us.png" group-title="Premium",OuterMAX USA
-http://streamsy.online:2999/live/venomj/EmoOmOskzq/1606.m3u8
+http://cdn1host.online:2999/live/venomj/EmoOmOskzq/1606.m3u8
 
 #EXTINF:-1 tvg-id="ThrillerMax.-.East.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/cinemax-thrillermax-us.png" group-title="Premium",ThrillerMAX USA
-http://streamsy.online:2999/live/venomj/EmoOmOskzq/1607.m3u8
+http://cdn1host.online:2999/live/venomj/EmoOmOskzq/1607.m3u8
 
 #EXTINF:-1 tvg-id="Paramount+.with.Showtime.-.Eastern.Feed.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/showtime-us.png" group-title="Premium",Showtime USA
 http://fl2.moveonjoy.com/SHOWTIME/index.m3u8
@@ -181,13 +193,13 @@ http://fl2.moveonjoy.com/SHOWTIME/index.m3u8
 http://fl2.moveonjoy.com/SHOWTIME_2/index.m3u8
 
 #EXTINF:-1 tvg-id="Showtime.Showcase.HD.-.East.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/showtime-showcase-us.png" group-title="Premium",Showtime Showcase USA
-http://streamsy.online:2999/live/venomj/EmoOmOskzq/1465.m3u8
+http://cdn1host.online:2999/live/venomj/EmoOmOskzq/1465.m3u8
 
 #EXTINF:-1 tvg-id="Showtime.Extreme.-.Eastern.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/showtime-extreme-us.png" group-title="Premium",Showtime Extreme USA
 http://fl2.moveonjoy.com/SHOWTIME_EXTREME/index.m3u8
 
 #EXTINF:-1 tvg-id="Showtime.FamilyZone.(East).(SHOFe).us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/showtime-family-zone-us.png" group-title="Premium",Showtime Family Zone USA
-http://streamsy.online:2999/live/venomj/EmoOmOskzq/1464.m3u8
+http://cdn1host.online:2999/live/venomj/EmoOmOskzq/1464.m3u8
 
 #EXTINF:-1 tvg-id="Showtime.Next.HD.-.Eastern.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/showtime-next-us.png" group-title="Premium",Showtime Next USA
 http://fl2.moveonjoy.com/SHOWTIME_NEXT/index.m3u8
@@ -199,7 +211,7 @@ http://fl2.moveonjoy.com/SHOWTIME_WOMEN/index.m3u8
 http://fl2.moveonjoy.com/STARZ/index.m3u8
 
 #EXTINF:-1 tvg-id="Starz.Cinema.HD.-.Eastern.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/starz-cinema-us.png" group-title="Premium",Starz Cinema USA
-http://streamsy.online:2999/live/venomj/EmoOmOskzq/1250.m3u8
+http://cdn1host.online:2999/live/venomj/EmoOmOskzq/1250.m3u8
 
 #EXTINF:-1 tvg-id="Starz.Comedy.HD.-.Eastern.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/starz-comedy-us.png" group-title="Premium",Starz Comedy USA
 http://fl5.moveonjoy.com/STARZ_COMEDY/index.m3u8
@@ -211,10 +223,10 @@ http://fl5.moveonjoy.com/STARZ_EDGE/index.m3u8
 http://fl5.moveonjoy.com/STARZ_ENCORE/index.m3u8
 
 #EXTINF:-1 tvg-id="Starz.In.Black.-.Eastern.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/starz-in-black-us.png" group-title="Premium",Starz In Black USA
-http://streamsy.online:2999/live/venomj/EmoOmOskzq/397.m3u8
+http://cdn1host.online:2999/live/venomj/EmoOmOskzq/397.m3u8
 
 #EXTINF:-1 tvg-id="Starz.Kids.and.Family.-.Eastern.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/starz-kids-and-family-us.png" group-title="Premium",Starz Kids & Family USA
-http://streamsy.online:2999/live/venomj/EmoOmOskzq/1248.m3u8
+http://cdn1host.online:2999/live/venomj/EmoOmOskzq/1248.m3u8
 
 #EXTINF:-1 tvg-id="USA.Network.-.East.Feed.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/usa-us.png" group-title="Entertainment",USA Network USA
 http://fl2.moveonjoy.com/USA_Network/index.m3u8
@@ -222,11 +234,23 @@ http://fl2.moveonjoy.com/USA_Network/index.m3u8
 #EXTINF:-1 tvg-id="VH1.-.Eastern.Feed.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/vh1-us.png" group-title="Entertainment",VH1 USA
 http://fl2.moveonjoy.com/VH1/index.m3u8
 
+#EXTINF:-1 tvg-id="Big.Ten.Network.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/big-ten-network-us.png" group-title="Sports",Big Ten Network USA
+http://fl3.moveonjoy.com/BIG_TEN_NETWORK/index.m3u8
+
+#EXTINF:-1 tvg-id="CBS.Sports.Network.USA.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/cbs-sports-network-us.png" group-title="Sports",CBS Sports Network USA
+http://fl2.moveonjoy.com/CBS_SPORTS_NETWORK/index.m3u8
+
 #EXTINF:-1 tvg-id="ESPN.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/espn-us.png" group-title="Sports",ESPN USA
 http://fl2.moveonjoy.com/NFL_15/index.m3u8
 
 #EXTINF:-1 tvg-id="ESPN2.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/espn-2-us.png" group-title="Sports",ESPN2 USA
 http://fl2.moveonjoy.com/ESPN_2/index.m3u8
+
+#EXTINF:-1 tvg-id="ESPN.News.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/espnews-us.png" group-title="Sports",ESPNews USA
+http://fl2.moveonjoy.com/ESPN_NEWS/index.m3u8
+
+#EXTINF:-1 tvg-id="ESPN.U.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/espn-u-us.png" group-title="Sports",ESPNU USA
+http://cdn1host.online:2999/live/venomj/EmoOmOskzq/172.m3u8
 
 #EXTINF:-1 tvg-id="Fox.Sports.1.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/fox-sports-1-us.png" group-title="Sports",FS1 USA
 http://fl2.moveonjoy.com/FOX_Sports_1/index.m3u8
@@ -234,8 +258,26 @@ http://fl2.moveonjoy.com/FOX_Sports_1/index.m3u8
 #EXTINF:-1 tvg-id="Fox.Sports.2.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/fox-sports-2-us.png" group-title="Sports",FS2 USA
 http://fl2.moveonjoy.com/FOX_Sports_2/index.m3u8
 
+#EXTINF:-1 tvg-id="MLB.Network.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/mlb-network-us.png" group-title="Sports",MLB Network USA
+http://fl2.moveonjoy.com/MLB_NETWORK/index.m3u8
+
+#EXTINF:-1 tvg-id="NBA.TV.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/nba-tv-us.png" group-title="Sports",NBA TV USA
+http://fl5.moveonjoy.com/NBA_TV/index.m3u8
+
+#EXTINF:-1 tvg-id="NBC.Sports.Bay.Area.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/nbcsn-bay-area-us.png" group-title="Sports",NBC Sports Bay Area USA
+http://cdn1host.online:2999/live/venomj/EmoOmOskzq/591.m3u8
+
+#EXTINF:-1 tvg-id="NBC.Sports.Boston.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/nbcsn-boston-us.png" group-title="Sports",NBC Sports Boston USA
+http://cdn1host.online:2999/live/venomj/EmoOmOskzq/590.m3u8
+
+#EXTINF:-1 tvg-id="NBC.Sports.California.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/nbcsn-california-us.png" group-title="Sports",NBC Sports California USA
+http://cdn1host.online:2999/live/venomj/EmoOmOskzq/589.m3u8
+
+#EXTINF:-1 tvg-id="NBC.Sports.Philadelphia.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/nbcsn-philadelphia-us.png" group-title="Sports",NBC Sports Philadelphia USA
+http://cdn1host.online:2999/live/venomj/EmoOmOskzq/586.m3u8
+
 #EXTINF:-1 tvg-id="New.England.Sports.Network.HDTV.(NESNHD).us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/nesn-us.png" group-title="Sports",NESN USA
-http://streamsy.online:2999/live/venomj/EmoOmOskzq/890.m3u8
+http://cdn1host.online:2999/live/venomj/EmoOmOskzq/890.m3u8
 
 #EXTINF:-1 tvg-id="NFL.Network.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/nfl-network-us.png" group-title="Sports",NFL Network USA
 http://fl2.moveonjoy.com/NFL_NETWORK/index.m3u8
@@ -246,11 +288,14 @@ http://fl1.moveonjoy.com/NFL_RedZone/index.m3u8
 #EXTINF:-1 tvg-id="NHL.Network.USA.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/nhl-network-us.png" group-title="Sports",NHL Network USA
 http://fl2.moveonjoy.com/NHL_NETWORK/index.m3u8
 
+#EXTINF:-1 tvg-id="WWE.Network.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/wwe-us.png" group-title="Sports",WWE Network USA
+http://cdn1host.online:2999/live/venomj/EmoOmOskzq/398.m3u8
+
 #EXTINF:-1 tvg-id="Boomerang.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/boomerang-us.png" group-title="Kids",Boomerang USA
 http://fl3.moveonjoy.com/BOOMERANG/index.m3u8
 
 #EXTINF:-1 tvg-id="Cartoon.Network.USA.-.Eastern.Feed.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/cartoon-network-us.png" group-title="Kids",Cartoon Network USA
-http://fl2.moveonjoy.com/CARTOON_NETWORK/index.m3u8
+http://cdn1host.online:2999/live/venomj/EmoOmOskzq/199.m3u8
 
 #EXTINF:-1 tvg-id="Discovery.Family.Channel.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/discovery-family-us.png" group-title="Kids",Discovery Family USA
 http://fl2.moveonjoy.com/DISCOVERY_FAMILY_CHANNEL/index.m3u8

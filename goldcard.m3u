@@ -273,7 +273,7 @@ http://cdn1host.online:2999/live/venomj/EmoOmOskzq/590.m3u8
 #EXTINF:-1 tvg-id="NBC.Sports.California.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/nbcsn-california-us.png" group-title="Sports",NBC Sports California USA
 http://cdn1host.online:2999/live/venomj/EmoOmOskzq/589.m3u8
 
-#EXTINF:-1 tvg-id="NBC.Sports.Philadelphia.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/nbcsn-philadelphia-us.png" group-title="Sports",NBC Sports Philadelphia USA
+#EXTINF:-1 tvg-id="NBC.Sports.Philadelphia.HDTV.(NBCSPAHD).us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/nbcsn-philadelphia-us.png" group-title="Sports",NBC Sports Philadelphia USA
 http://cdn1host.online:2999/live/venomj/EmoOmOskzq/586.m3u8
 
 #EXTINF:-1 tvg-id="New.England.Sports.Network.HDTV.(NESNHD).us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/nesn-us.png" group-title="Sports",NESN USA

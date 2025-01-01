@@ -288,9 +288,6 @@ http://fl1.moveonjoy.com/NFL_RedZone/index.m3u8
 #EXTINF:-1 tvg-id="NHL.Network.USA.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/nhl-network-us.png" group-title="Sports",NHL Network USA
 http://fl2.moveonjoy.com/NHL_NETWORK/index.m3u8
 
-#EXTINF:-1 tvg-id="WWE.Network.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/wwe-us.png" group-title="Sports",WWE Network USA
-http://cdn1host.online:2999/live/venomj/EmoOmOskzq/398.m3u8
-
 #EXTINF:-1 tvg-id="Boomerang.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/boomerang-us.png" group-title="Kids",Boomerang USA
 http://fl3.moveonjoy.com/BOOMERANG/index.m3u8
 

@@ -1,0 +1,22 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id="FS1" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/australia/fox-sports-cricket-501-hd-au.png" group-title="Sports",Fox Cricket 501 AU
+https://848b3516657c-worldwide-sports-tv.baby-beamup.club/proxy/aHR0cHM6Ly94eXpkZGRkLm1pemhscy5ydS9sYi9wcmVtaXVtMzY5L2luZGV4Lm0zdTh8aHR0cHM6Ly9jb29raWV3ZWJwbGF5Lnh5ei8=.m3u8
+
+#EXTINF:-1 tvg-id="SP2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/australia/fox-sports-league-502-hd-au.png" group-title="Sports",Fox League 502 AU
+https://848b3516657c-worldwide-sports-tv.baby-beamup.club/proxy/aHR0cHM6Ly94eXpkZGRkLm1pemhscy5ydS9sYi9wcmVtaXVtODIwL2luZGV4Lm0zdTh8aHR0cHM6Ly9jb29raWV3ZWJwbGF5Lnh5ei8=.m3u8
+
+#EXTINF:-1 tvg-id="FS3" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/australia/fox-sports-503-hd-au.png" group-title="Sports",Fox Sports 503 AU
+https://848b3516657c-worldwide-sports-tv.baby-beamup.club/proxy/aHR0cHM6Ly94eXpkZGRkLm1pemhscy5ydS9sYi9wcmVtaXVtODIxL2luZGV4Lm0zdTh8aHR0cHM6Ly9jb29raWV3ZWJwbGF5Lnh5ei8=.m3u8
+
+#EXTINF:-1 tvg-id="FAF" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/australia/fox-sports-footy-504-hd-au.png" group-title="Sports",Fox Footy 504 AU
+https://848b3516657c-worldwide-sports-tv.baby-beamup.club/proxy/aHR0cHM6Ly94eXpkZGRkLm1pemhscy5ydS9sYi9wcmVtaXVtODIyL2luZGV4Lm0zdTh8aHR0cHM6Ly9jb29raWV3ZWJwbGF5Lnh5ei8=.m3u8
+
+#EXTINF:-1 tvg-id="FSP" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/australia/fox-sports-505-hd-au.png" group-title="Sports",Fox Sports 505 AU
+https://848b3516657c-worldwide-sports-tv.baby-beamup.club/proxy/aHR0cHM6Ly94eXpkZGRkLm1pemhscy5ydS9sYi9wcmVtaXVtODIzL2luZGV4Lm0zdTh8aHR0cHM6Ly9jb29raWV3ZWJwbGF5Lnh5ei8=.m3u8
+
+#EXTINF:-1 tvg-id="SPS" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/australia/fox-sports-506-hd-au.png" group-title="Sports",Fox Sports 506 AU
+https://848b3516657c-worldwide-sports-tv.baby-beamup.club/proxy/aHR0cHM6Ly94eXpkZGRkLm1pemhscy5ydS9sYi9wcmVtaXVtODI0L2luZGV4Lm0zdTh8aHR0cHM6Ly9jb29raWV3ZWJwbGF5Lnh5ei8=.m3u8
+
+#EXTINF:-1 tvg-id="FSS" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/australia/fox-sports-507-hd-au.png" group-title="Sports",Fox Sports 507 AU
+https://848b3516657c-worldwide-sports-tv.baby-beamup.club/proxy/aHR0cHM6Ly94eXpkZGRkLm1pemhscy5ydS9sYi9wcmVtaXVtODI1L2luZGV4Lm0zdTh8aHR0cHM6Ly9jb29raWV3ZWJwbGF5Lnh5ei8=.m3u8

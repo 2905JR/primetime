@@ -120,9 +120,6 @@ http://fl5.moveonjoy.com/HBO_COMEDY/index.m3u8
 #EXTINF:-1 tvg-id="HBO.Family.-.Eastern.Feed.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/hbo-family-us.png" group-title="Premium",HBO Family USA
 http://fl5.moveonjoy.com/HBO_FAMILY/index.m3u8
 
-!!!!!#EXTINF:-1 tvg-id="HBO.Signature.(HBO.3).-.Eastern.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/hbo-signature-us.png" group-title="Premium",HBO Signature USA
-http://cdn1host.online:2999/live/venomj/EmoOmOskzq/156.m3u8
-
 #EXTINF:-1 tvg-id="HBO.Zone.HD.-.East.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/hbo-zone-us.png" group-title="Premium",HBO Zone USA
 http://fl5.moveonjoy.com/HBO_ZONE/index.m3u8
 

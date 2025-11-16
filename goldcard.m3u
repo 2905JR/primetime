@@ -1,10 +1,10 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-id="ABC.(WABC).New.York,.NY.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/us-local/abc-7-wabc-us.png" group-title="Network",ABC NYC (WABC) USA
-http://fl1.moveonjoy.com/ABC_EAST/index.m3u8
+https://a1xs.vip/300003
 
 #EXTINF:-1 tvg-id="CBS.(WCBS).New.York,.NY.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/us-local/cbs-2-wcbs-us.png" group-title="Network",CBS NYC (WCBS) USA
-http://fl2.moveonjoy.com/CBSEAST/index.m3u8
+https://a1xs.vip/300010
 
 #EXTINF:-1 tvg-id="FOX.(WNYW).New.York,.NY.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/us-local/fox-5-wnyw-us.png" group-title="Network",FOX NYC (WNYW) USA
 http://fl1.moveonjoy.com/FOX_EAST/index.m3u8
@@ -204,6 +204,9 @@ http://fl2.moveonjoy.com/MLB_NETWORK/index.m3u8
 #EXTINF:-1 tvg-id="NBA.TV.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/nba-tv-us.png" group-title="Sports",NBA TV USA
 http://fl5.moveonjoy.com/NBA_TV/index.m3u8
 
+#EXTINF:-1 tvg-id="NESN.TV.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/nesn-tv-us.png" group-title="Sports",NESN USA
+http://23.237.104.106:8080/USA_NESN/index.m3u8
+
 #EXTINF:-1 tvg-id="NFL.Network.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/nfl-network-us.png" group-title="Sports",NFL Network USA
 http://fl2.moveonjoy.com/NFL_NETWORK/index.m3u8
 
@@ -214,10 +217,10 @@ http://fl1.moveonjoy.com/NFL_RedZone/index.m3u8
 http://fl2.moveonjoy.com/NHL_NETWORK/index.m3u8
 
 #EXTINF:-1 tvg-id="Boomerang.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/boomerang-us.png" group-title="Kids",Boomerang USA
-http://fl3.moveonjoy.com/BOOMERANG/index.m3u8
+https://fl7.moveonjoy.com/BOOMERANG/index.m3u8
 
 #EXTINF:-1 tvg-id="Cartoon.Network.USA.-.Eastern.Feed.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/cartoon-network-us.png" group-title="Kids",Cartoon Network USA
-http://fl2.moveonjoy.com/CARTOON_NETWORK/index.m3u8
+https://a1xs.vip/300032
 
 #EXTINF:-1 tvg-id="Discovery.Family.Channel.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/discovery-family-us.png" group-title="Kids",Discovery Family USA
 http://fl2.moveonjoy.com/DISCOVERY_FAMILY_CHANNEL/index.m3u8
@@ -226,16 +229,19 @@ http://fl2.moveonjoy.com/DISCOVERY_FAMILY_CHANNEL/index.m3u8
 http://fl5.moveonjoy.com/DISNEY_CHANNEL/index.m3u8
 
 #EXTINF:-1 tvg-id="Disney.Junior.USA.-.East.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/disney-jr-us.png" group-title="Kids",Disney Jr. US
-http://fl5.moveonjoy.com/DISNEY_JR/index.m3u8
+https://a1xs.vip/300037
 
 #EXTINF:-1 tvg-id="Disney.XD.Canada.ca" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/disney-xd-us.png" group-title="Kids",Disney XD CA
-http://fl2.moveonjoy.com/DISNEY_XD/index.m3u8
+https://fl7.moveonjoy.com/DISNEY_XD/index.m3u8
 
 #EXTINF:-1 tvg-id="Nickelodeon.USA.-.East.Feed.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/nickelodeon-us.png" group-title="Kids",Nickelodeon USA
-http://fl1.moveonjoy.com/NICKELODEON/index.m3u8
+https://a1xs.vip/300030
 
 #EXTINF:-1 tvg-id="Nick.Jr..-.East.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/nick-jr-us.png" group-title="Kids",Nick Jr. USA
-http://fl2.moveonjoy.com/NICK_JR/index.m3u8
+https://a1xs.vip/300033
 
 #EXTINF:-1 tvg-id="Nicktoons.-.East.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/nick-toons-us.png" group-title="Kids",Nicktoons USA
 http://fl2.moveonjoy.com/NICKTOONS/index.m3u8
+
+#EXTINF:-1 tvg-id="Teen.Nick.-.East.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/teen-nick-us.png" group-title="Kids",Teen Nick USA
+https://a1xs.vip/300031
